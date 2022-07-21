@@ -334,6 +334,12 @@ hr {
         grid-template-columns: repeat(1, 1fr);
         height: 100%;
         width: auto;
+        margin-left: 15px;
+    }
+
+    .header-article {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
     }
 
     .header-photo img {
